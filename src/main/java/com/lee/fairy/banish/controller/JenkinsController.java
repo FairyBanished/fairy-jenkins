@@ -11,7 +11,7 @@ public class JenkinsController {
 	@RequestMapping("/data")
 	@ResponseBody
 	public String data() {
-		return "你好,这是一条 Jenkins数据,嘿嘿嘿！ ";
+		return "你好,这是一条 Jenkins数据,嚯嚯嚯！ ";
 	}
 
 }
